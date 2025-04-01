@@ -2,6 +2,7 @@ use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
 
+// function
 fn main() {
     println!("THIS IS GUESSING GAME !");
 
